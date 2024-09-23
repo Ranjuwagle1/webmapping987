@@ -1,0 +1,1 @@
+var json_ParkingArea_6 = {"type":"FeatureCollection","name":"ParkingArea_6","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Type":"Vehicle Parking"},"geometry":{"type":"Point","coordinates":[86.722242109273481,27.823445387372672]}}]}
